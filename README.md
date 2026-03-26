@@ -1,4 +1,25 @@
-## Hi there 👋
+## ✧ hi, i'm kiran
+
+🎓 Computer Science student @ George Mason University  
+
+### ✧ what i'm learning
+- currently learning data analytics and C
+- building my skills in software development 
+
+### ✧ tools & languages
+- Python  
+- Java  
+- C  
+- SQL  
+
+### ✧ reach me
+- LinkedIn: www.linkedin.com/in/kiran-hadi-923474317
+- Handshake: https://gmu.joinhandshake.com/profiles/rju522
+
+## fun facts (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+- i love gaming 👾
+- i make jewelry 💎
+- my favorite color is pink 🩷
 
 <!--
 **kiranhadi06/kiranhadi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
