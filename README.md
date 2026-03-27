@@ -1,18 +1,19 @@
-## ✧ hi, i'm kiran
+## hi! 
 
-🎓 Computer Science student @ George Mason University  
+i'm kiran 
+🎓 computer Science student @ George Mason University  
 
-### ✧ what i'm learning
+### *:･ﾟ✧ what i'm learning *:･ﾟ✧
 - currently learning data analytics and C
 - building my skills in software development 
 
-### ✧ tools & languages
+### ✿ tools & languages ✿
 - Python  
 - Java  
 - C  
 - SQL  
 
-### ✧ reach me
+### ✿.:*☆ reach me .｡.:*☆
 - LinkedIn: www.linkedin.com/in/kiran-hadi-923474317
 - Handshake: https://gmu.joinhandshake.com/profiles/rju522
 
