@@ -13,7 +13,7 @@ i'm kiran
 - C  
 - SQL  
 
-### ✿.:*☆ reach me .｡.:*☆
+### ✿.:* reach me .｡.:*
 - LinkedIn: www.linkedin.com/in/kiran-hadi-923474317
 - Handshake: https://gmu.joinhandshake.com/profiles/rju522
 
