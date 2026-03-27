@@ -1,7 +1,7 @@
 ## hi! 
 
 i'm kiran 
-🎓 computer Science student @ George Mason University  
+🎓 computer science student @ George Mason University  
 
 ### *:･ﾟ✧ what i'm learning *:･ﾟ✧
 - currently learning data analytics and C
