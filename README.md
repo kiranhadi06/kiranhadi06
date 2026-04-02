@@ -17,6 +17,11 @@ i'm kiran
 - LinkedIn: www.linkedin.com/in/kiran-hadi-923474317
 - Handshake: https://gmu.joinhandshake.com/profiles/rju522
 
+## ✧ interests ✧  
+• software development  
+• data analytics  
+• creative tech (games / UI / storytelling)
+
 ## fun facts (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 - i love gaming 👾
 - i make jewelry 💎
