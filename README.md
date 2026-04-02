@@ -11,16 +11,16 @@ i'm kiran
 - Python  
 - Java  
 - C  
-- SQL  
-
-### ✿.:* reach me .｡.:*
-- LinkedIn: www.linkedin.com/in/kiran-hadi-923474317
-- Handshake: https://gmu.joinhandshake.com/profiles/rju522
+- SQL
 
 ## ✧ interests ✧  
 • software development  
 • data analytics  
 • creative tech (games / UI / storytelling)
+
+### ✿.:* reach me .｡.:*
+- LinkedIn: www.linkedin.com/in/kiran-hadi-923474317
+- Handshake: https://gmu.joinhandshake.com/profiles/rju522
 
 ## fun facts (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 - i love gaming 👾
