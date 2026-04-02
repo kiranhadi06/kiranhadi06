@@ -1,4 +1,4 @@
-## hi! 
+##
 
 i'm kiran 
 🎓 computer science student @ George Mason University  
